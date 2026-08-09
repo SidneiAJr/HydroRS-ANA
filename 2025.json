@@ -1,0 +1,1218 @@
+[
+  {
+    "dia": "2025-01-01T03:00:00.000Z",
+    "pico": "2.27",
+    "minimo": "1.90",
+    "media": "2.02",
+    "chuva_total": "24.60",
+    "vazao_media": "70.83"
+  },
+  {
+    "dia": "2025-01-02T03:00:00.000Z",
+    "pico": "2.27",
+    "minimo": "2.02",
+    "media": "2.11",
+    "chuva_total": "1.20",
+    "vazao_media": "76.26"
+  },
+  {
+    "dia": "2025-01-03T03:00:00.000Z",
+    "pico": "2.11",
+    "minimo": "2.02",
+    "media": "2.07",
+    "chuva_total": "0.00",
+    "vazao_media": "73.91"
+  },
+  {
+    "dia": "2025-01-04T03:00:00.000Z",
+    "pico": "2.10",
+    "minimo": "1.89",
+    "media": "1.98",
+    "chuva_total": "0.00",
+    "vazao_media": "68.63"
+  },
+  {
+    "dia": "2025-01-05T03:00:00.000Z",
+    "pico": "1.90",
+    "minimo": "1.64",
+    "media": "1.78",
+    "chuva_total": "0.00",
+    "vazao_media": "58.20"
+  },
+  {
+    "dia": "2025-01-06T03:00:00.000Z",
+    "pico": "1.65",
+    "minimo": "1.45",
+    "media": "1.55",
+    "chuva_total": "0.00",
+    "vazao_media": "47.18"
+  },
+  {
+    "dia": "2025-01-07T03:00:00.000Z",
+    "pico": "1.51",
+    "minimo": "1.29",
+    "media": "1.40",
+    "chuva_total": "0.00",
+    "vazao_media": "40.44"
+  },
+  {
+    "dia": "2025-01-08T03:00:00.000Z",
+    "pico": "1.38",
+    "minimo": "1.19",
+    "media": "1.28",
+    "chuva_total": "0.00",
+    "vazao_media": "35.53"
+  },
+  {
+    "dia": "2025-01-09T03:00:00.000Z",
+    "pico": "1.30",
+    "minimo": "1.08",
+    "media": "1.16",
+    "chuva_total": "0.00",
+    "vazao_media": "30.87"
+  },
+  {
+    "dia": "2025-01-10T03:00:00.000Z",
+    "pico": "1.19",
+    "minimo": "0.96",
+    "media": "1.07",
+    "chuva_total": "0.00",
+    "vazao_media": "27.31"
+  },
+  {
+    "dia": "2025-01-11T03:00:00.000Z",
+    "pico": "1.18",
+    "minimo": "0.99",
+    "media": "1.09",
+    "chuva_total": "0.00",
+    "vazao_media": "28.14"
+  },
+  {
+    "dia": "2025-01-12T03:00:00.000Z",
+    "pico": "1.21",
+    "minimo": "0.96",
+    "media": "1.08",
+    "chuva_total": "0.00",
+    "vazao_media": "27.78"
+  },
+  {
+    "dia": "2025-01-13T03:00:00.000Z",
+    "pico": "1.16",
+    "minimo": "0.88",
+    "media": "1.00",
+    "chuva_total": "0.00",
+    "vazao_media": "24.82"
+  },
+  {
+    "dia": "2025-01-14T03:00:00.000Z",
+    "pico": "1.07",
+    "minimo": "0.82",
+    "media": "0.92",
+    "chuva_total": "0.00",
+    "vazao_media": "22.24"
+  },
+  {
+    "dia": "2025-01-15T03:00:00.000Z",
+    "pico": "0.97",
+    "minimo": "0.68",
+    "media": "0.80",
+    "chuva_total": "0.00",
+    "vazao_media": "18.35"
+  },
+  {
+    "dia": "2025-01-16T03:00:00.000Z",
+    "pico": "0.86",
+    "minimo": "0.63",
+    "media": "0.75",
+    "chuva_total": "0.40",
+    "vazao_media": "16.52"
+  },
+  {
+    "dia": "2025-01-17T03:00:00.000Z",
+    "pico": "1.08",
+    "minimo": "0.67",
+    "media": "0.79",
+    "chuva_total": "3.80",
+    "vazao_media": "17.90"
+  },
+  {
+    "dia": "2025-01-18T03:00:00.000Z",
+    "pico": "1.09",
+    "minimo": "0.89",
+    "media": "0.98",
+    "chuva_total": "0.00",
+    "vazao_media": "24.24"
+  },
+  {
+    "dia": "2025-01-19T03:00:00.000Z",
+    "pico": "1.02",
+    "minimo": "0.83",
+    "media": "0.90",
+    "chuva_total": "0.00",
+    "vazao_media": "21.54"
+  },
+  {
+    "dia": "2025-01-20T03:00:00.000Z",
+    "pico": "0.96",
+    "minimo": "0.79",
+    "media": "0.88",
+    "chuva_total": "1.60",
+    "vazao_media": "20.54"
+  },
+  {
+    "dia": "2025-01-21T03:00:00.000Z",
+    "pico": "1.06",
+    "minimo": "0.83",
+    "media": "0.89",
+    "chuva_total": "0.00",
+    "vazao_media": "20.94"
+  },
+  {
+    "dia": "2025-01-22T03:00:00.000Z",
+    "pico": "1.09",
+    "minimo": "0.83",
+    "media": "0.95",
+    "chuva_total": "0.00",
+    "vazao_media": "23.07"
+  },
+  {
+    "dia": "2025-01-23T03:00:00.000Z",
+    "pico": "1.00",
+    "minimo": "0.77",
+    "media": "0.90",
+    "chuva_total": "0.00",
+    "vazao_media": "21.33"
+  },
+  {
+    "dia": "2025-01-24T03:00:00.000Z",
+    "pico": "0.99",
+    "minimo": "0.67",
+    "media": "0.82",
+    "chuva_total": "3.20",
+    "vazao_media": "18.79"
+  },
+  {
+    "dia": "2025-01-25T03:00:00.000Z",
+    "pico": "0.91",
+    "minimo": "0.69",
+    "media": "0.79",
+    "chuva_total": "0.40",
+    "vazao_media": "17.77"
+  },
+  {
+    "dia": "2025-01-26T03:00:00.000Z",
+    "pico": "1.09",
+    "minimo": "0.92",
+    "media": "1.04",
+    "chuva_total": "0.40",
+    "vazao_media": "26.03"
+  },
+  {
+    "dia": "2025-01-27T03:00:00.000Z",
+    "pico": "1.05",
+    "minimo": "0.78",
+    "media": "0.91",
+    "chuva_total": "4.60",
+    "vazao_media": "21.68"
+  },
+  {
+    "dia": "2025-01-28T03:00:00.000Z",
+    "pico": "1.43",
+    "minimo": "0.66",
+    "media": "0.84",
+    "chuva_total": "46.00",
+    "vazao_media": "19.76"
+  },
+  {
+    "dia": "2025-01-29T03:00:00.000Z",
+    "pico": "1.43",
+    "minimo": "0.88",
+    "media": "1.03",
+    "chuva_total": "0.00",
+    "vazao_media": "26.22"
+  },
+  {
+    "dia": "2025-01-30T03:00:00.000Z",
+    "pico": "1.05",
+    "minimo": "0.97",
+    "media": "1.00",
+    "chuva_total": "2.80",
+    "vazao_media": "24.82"
+  },
+  {
+    "dia": "2025-01-31T03:00:00.000Z",
+    "pico": "1.13",
+    "minimo": "0.93",
+    "media": "0.99",
+    "chuva_total": "1.80",
+    "vazao_media": "24.58"
+  },
+  {
+    "dia": "2025-02-01T03:00:00.000Z",
+    "pico": "1.03",
+    "minimo": "0.88",
+    "media": "0.95",
+    "chuva_total": "0.00",
+    "vazao_media": "23.17"
+  },
+  {
+    "dia": "2025-02-02T03:00:00.000Z",
+    "pico": "1.01",
+    "minimo": "0.84",
+    "media": "0.93",
+    "chuva_total": "0.00",
+    "vazao_media": "22.21"
+  },
+  {
+    "dia": "2025-02-03T03:00:00.000Z",
+    "pico": "0.97",
+    "minimo": "0.76",
+    "media": "0.87",
+    "chuva_total": "0.00",
+    "vazao_media": "20.43"
+  },
+  {
+    "dia": "2025-02-04T03:00:00.000Z",
+    "pico": "0.91",
+    "minimo": "0.68",
+    "media": "0.80",
+    "chuva_total": "0.00",
+    "vazao_media": "18.21"
+  },
+  {
+    "dia": "2025-02-05T03:00:00.000Z",
+    "pico": "0.92",
+    "minimo": "0.73",
+    "media": "0.82",
+    "chuva_total": "0.00",
+    "vazao_media": "18.80"
+  },
+  {
+    "dia": "2025-02-06T03:00:00.000Z",
+    "pico": "0.90",
+    "minimo": "0.63",
+    "media": "0.77",
+    "chuva_total": "1.40",
+    "vazao_media": "17.31"
+  },
+  {
+    "dia": "2025-02-07T03:00:00.000Z",
+    "pico": "1.10",
+    "minimo": "0.75",
+    "media": "0.97",
+    "chuva_total": "0.00",
+    "vazao_media": "23.79"
+  },
+  {
+    "dia": "2025-02-08T03:00:00.000Z",
+    "pico": "1.03",
+    "minimo": "0.70",
+    "media": "0.86",
+    "chuva_total": "0.00",
+    "vazao_media": "20.16"
+  },
+  {
+    "dia": "2025-02-09T03:00:00.000Z",
+    "pico": "0.97",
+    "minimo": "0.65",
+    "media": "0.80",
+    "chuva_total": "0.00",
+    "vazao_media": "18.09"
+  },
+  {
+    "dia": "2025-02-10T03:00:00.000Z",
+    "pico": "0.95",
+    "minimo": "0.70",
+    "media": "0.81",
+    "chuva_total": "0.00",
+    "vazao_media": "18.55"
+  },
+  {
+    "dia": "2025-02-11T03:00:00.000Z",
+    "pico": "0.86",
+    "minimo": "0.62",
+    "media": "0.71",
+    "chuva_total": "0.60",
+    "vazao_media": "15.42"
+  },
+  {
+    "dia": "2025-02-12T03:00:00.000Z",
+    "pico": "1.01",
+    "minimo": "0.75",
+    "media": "0.88",
+    "chuva_total": "10.40",
+    "vazao_media": "20.69"
+  },
+  {
+    "dia": "2025-02-13T03:00:00.000Z",
+    "pico": "1.17",
+    "minimo": "0.82",
+    "media": "0.94",
+    "chuva_total": "1.40",
+    "vazao_media": "22.90"
+  },
+  {
+    "dia": "2025-02-14T03:00:00.000Z",
+    "pico": "1.17",
+    "minimo": "0.97",
+    "media": "1.07",
+    "chuva_total": "0.00",
+    "vazao_media": "27.20"
+  },
+  {
+    "dia": "2025-02-15T03:00:00.000Z",
+    "pico": "1.60",
+    "minimo": "0.84",
+    "media": "1.03",
+    "chuva_total": "29.20",
+    "vazao_media": "26.38"
+  },
+  {
+    "dia": "2025-02-16T03:00:00.000Z",
+    "pico": "1.59",
+    "minimo": "1.07",
+    "media": "1.26",
+    "chuva_total": "0.00",
+    "vazao_media": "34.72"
+  },
+  {
+    "dia": "2025-02-17T03:00:00.000Z",
+    "pico": "2.01",
+    "minimo": "1.07",
+    "media": "1.81",
+    "chuva_total": "34.40",
+    "vazao_media": "60.28"
+  },
+  {
+    "dia": "2025-02-18T03:00:00.000Z",
+    "pico": "2.19",
+    "minimo": "2.01",
+    "media": "2.08",
+    "chuva_total": "0.00",
+    "vazao_media": "74.52"
+  },
+  {
+    "dia": "2025-02-19T03:00:00.000Z",
+    "pico": "2.18",
+    "minimo": "1.84",
+    "media": "2.03",
+    "chuva_total": "0.00",
+    "vazao_media": "71.63"
+  },
+  {
+    "dia": "2025-02-20T03:00:00.000Z",
+    "pico": "1.83",
+    "minimo": "1.45",
+    "media": "1.61",
+    "chuva_total": "0.00",
+    "vazao_media": "50.24"
+  },
+  {
+    "dia": "2025-02-21T03:00:00.000Z",
+    "pico": "1.45",
+    "minimo": "1.20",
+    "media": "1.29",
+    "chuva_total": "0.00",
+    "vazao_media": "35.86"
+  },
+  {
+    "dia": "2025-02-22T03:00:00.000Z",
+    "pico": "1.24",
+    "minimo": "1.00",
+    "media": "1.10",
+    "chuva_total": "0.00",
+    "vazao_media": "28.34"
+  },
+  {
+    "dia": "2025-02-23T03:00:00.000Z",
+    "pico": "1.09",
+    "minimo": "0.84",
+    "media": "0.95",
+    "chuva_total": "0.00",
+    "vazao_media": "23.12"
+  },
+  {
+    "dia": "2025-02-24T03:00:00.000Z",
+    "pico": "0.96",
+    "minimo": "0.74",
+    "media": "0.85",
+    "chuva_total": "0.00",
+    "vazao_media": "19.80"
+  },
+  {
+    "dia": "2025-02-25T03:00:00.000Z",
+    "pico": "0.88",
+    "minimo": "0.69",
+    "media": "0.79",
+    "chuva_total": "10.60",
+    "vazao_media": "17.87"
+  },
+  {
+    "dia": "2025-02-26T03:00:00.000Z",
+    "pico": "1.30",
+    "minimo": "0.74",
+    "media": "0.85",
+    "chuva_total": "6.40",
+    "vazao_media": "19.76"
+  },
+  {
+    "dia": "2025-02-27T03:00:00.000Z",
+    "pico": "1.32",
+    "minimo": "0.98",
+    "media": "1.12",
+    "chuva_total": "14.60",
+    "vazao_media": "29.26"
+  },
+  {
+    "dia": "2025-02-28T03:00:00.000Z",
+    "pico": "1.22",
+    "minimo": "1.02",
+    "media": "1.10",
+    "chuva_total": "0.40",
+    "vazao_media": "28.31"
+  },
+  {
+    "dia": "2025-03-01T03:00:00.000Z",
+    "pico": "1.07",
+    "minimo": "0.87",
+    "media": "0.96",
+    "chuva_total": "1.40",
+    "vazao_media": "23.35"
+  },
+  {
+    "dia": "2025-03-02T03:00:00.000Z",
+    "pico": "1.08",
+    "minimo": "0.92",
+    "media": "0.99",
+    "chuva_total": "0.00",
+    "vazao_media": "24.41"
+  },
+  {
+    "dia": "2025-03-03T03:00:00.000Z",
+    "pico": "1.09",
+    "minimo": "0.86",
+    "media": "0.96",
+    "chuva_total": "0.00",
+    "vazao_media": "23.59"
+  },
+  {
+    "dia": "2025-03-04T03:00:00.000Z",
+    "pico": "0.94",
+    "minimo": "0.75",
+    "media": "0.84",
+    "chuva_total": "0.00",
+    "vazao_media": "19.52"
+  },
+  {
+    "dia": "2025-03-05T03:00:00.000Z",
+    "pico": "0.91",
+    "minimo": "0.63",
+    "media": "0.77",
+    "chuva_total": "0.00",
+    "vazao_media": "17.27"
+  },
+  {
+    "dia": "2025-03-06T03:00:00.000Z",
+    "pico": "0.85",
+    "minimo": "0.53",
+    "media": "0.69",
+    "chuva_total": "0.00",
+    "vazao_media": "14.80"
+  },
+  {
+    "dia": "2025-03-07T03:00:00.000Z",
+    "pico": "0.78",
+    "minimo": "0.49",
+    "media": "0.64",
+    "chuva_total": "0.00",
+    "vazao_media": "13.45"
+  },
+  {
+    "dia": "2025-03-08T03:00:00.000Z",
+    "pico": "0.68",
+    "minimo": "0.42",
+    "media": "0.57",
+    "chuva_total": "0.00",
+    "vazao_media": "11.57"
+  },
+  {
+    "dia": "2025-03-09T03:00:00.000Z",
+    "pico": "1.69",
+    "minimo": "0.61",
+    "media": "1.14",
+    "chuva_total": "49.40",
+    "vazao_media": "31.29"
+  },
+  {
+    "dia": "2025-03-10T03:00:00.000Z",
+    "pico": "1.56",
+    "minimo": "1.36",
+    "media": "1.43",
+    "chuva_total": "0.20",
+    "vazao_media": "41.97"
+  },
+  {
+    "dia": "2025-03-11T03:00:00.000Z",
+    "pico": "1.42",
+    "minimo": "1.18",
+    "media": "1.30",
+    "chuva_total": "0.00",
+    "vazao_media": "36.19"
+  },
+  {
+    "dia": "2025-03-12T03:00:00.000Z",
+    "pico": "1.20",
+    "minimo": "0.94",
+    "media": "1.06",
+    "chuva_total": "0.00",
+    "vazao_media": "26.87"
+  },
+  {
+    "dia": "2025-03-13T03:00:00.000Z",
+    "pico": "1.16",
+    "minimo": "0.88",
+    "media": "1.00",
+    "chuva_total": "0.00",
+    "vazao_media": "24.95"
+  },
+  {
+    "dia": "2025-03-14T03:00:00.000Z",
+    "pico": "1.15",
+    "minimo": "1.00",
+    "media": "1.08",
+    "chuva_total": "2.00",
+    "vazao_media": "27.59"
+  },
+  {
+    "dia": "2025-03-15T03:00:00.000Z",
+    "pico": "1.21",
+    "minimo": "1.02",
+    "media": "1.13",
+    "chuva_total": "0.00",
+    "vazao_media": "29.50"
+  },
+  {
+    "dia": "2025-03-16T03:00:00.000Z",
+    "pico": "1.20",
+    "minimo": "0.94",
+    "media": "1.06",
+    "chuva_total": "0.00",
+    "vazao_media": "27.12"
+  },
+  {
+    "dia": "2025-03-17T03:00:00.000Z",
+    "pico": "1.18",
+    "minimo": "0.92",
+    "media": "1.02",
+    "chuva_total": "0.00",
+    "vazao_media": "25.38"
+  },
+  {
+    "dia": "2025-03-18T03:00:00.000Z",
+    "pico": "1.16",
+    "minimo": "0.97",
+    "media": "1.04",
+    "chuva_total": "0.00",
+    "vazao_media": "26.29"
+  },
+  {
+    "dia": "2025-03-19T03:00:00.000Z",
+    "pico": "1.17",
+    "minimo": "0.89",
+    "media": "1.02",
+    "chuva_total": "0.00",
+    "vazao_media": "25.71"
+  },
+  {
+    "dia": "2025-03-20T03:00:00.000Z",
+    "pico": "1.11",
+    "minimo": "0.89",
+    "media": "0.98",
+    "chuva_total": "0.00",
+    "vazao_media": "24.09"
+  },
+  {
+    "dia": "2025-03-21T03:00:00.000Z",
+    "pico": "1.02",
+    "minimo": "0.81",
+    "media": "0.91",
+    "chuva_total": "0.00",
+    "vazao_media": "21.84"
+  },
+  {
+    "dia": "2025-03-22T03:00:00.000Z",
+    "pico": "0.97",
+    "minimo": "0.70",
+    "media": "0.83",
+    "chuva_total": "0.00",
+    "vazao_media": "19.06"
+  },
+  {
+    "dia": "2025-03-23T03:00:00.000Z",
+    "pico": "1.05",
+    "minimo": "0.68",
+    "media": "0.83",
+    "chuva_total": "0.00",
+    "vazao_media": "19.05"
+  },
+  {
+    "dia": "2025-03-24T03:00:00.000Z",
+    "pico": "1.07",
+    "minimo": "0.85",
+    "media": "0.97",
+    "chuva_total": "0.00",
+    "vazao_media": "23.64"
+  },
+  {
+    "dia": "2025-03-25T03:00:00.000Z",
+    "pico": "1.12",
+    "minimo": "0.93",
+    "media": "1.02",
+    "chuva_total": "0.00",
+    "vazao_media": "25.58"
+  },
+  {
+    "dia": "2025-03-26T03:00:00.000Z",
+    "pico": "1.15",
+    "minimo": "0.89",
+    "media": "1.02",
+    "chuva_total": "0.00",
+    "vazao_media": "25.73"
+  },
+  {
+    "dia": "2025-03-27T03:00:00.000Z",
+    "pico": "1.09",
+    "minimo": "0.78",
+    "media": "0.90",
+    "chuva_total": "0.00",
+    "vazao_media": "21.54"
+  },
+  {
+    "dia": "2025-03-28T03:00:00.000Z",
+    "pico": "0.90",
+    "minimo": "0.74",
+    "media": "0.82",
+    "chuva_total": "0.00",
+    "vazao_media": "18.63"
+  },
+  {
+    "dia": "2025-03-29T03:00:00.000Z",
+    "pico": "1.17",
+    "minimo": "0.84",
+    "media": "0.95",
+    "chuva_total": "0.00",
+    "vazao_media": "23.08"
+  },
+  {
+    "dia": "2025-03-30T03:00:00.000Z",
+    "pico": "1.14",
+    "minimo": "0.91",
+    "media": "0.99",
+    "chuva_total": "0.00",
+    "vazao_media": "24.43"
+  },
+  {
+    "dia": "2025-03-31T03:00:00.000Z",
+    "pico": "1.10",
+    "minimo": "0.74",
+    "media": "0.84",
+    "chuva_total": "4.20",
+    "vazao_media": "19.51"
+  },
+  {
+    "dia": "2025-04-01T03:00:00.000Z",
+    "pico": "1.22",
+    "minimo": "1.06",
+    "media": "1.15",
+    "chuva_total": "0.80",
+    "vazao_media": "30.31"
+  },
+  {
+    "dia": "2025-04-02T03:00:00.000Z",
+    "pico": "1.24",
+    "minimo": "0.77",
+    "media": "0.93",
+    "chuva_total": "21.60",
+    "vazao_media": "22.50"
+  },
+  {
+    "dia": "2025-04-03T03:00:00.000Z",
+    "pico": "1.46",
+    "minimo": "1.21",
+    "media": "1.35",
+    "chuva_total": "6.40",
+    "vazao_media": "38.62"
+  },
+  {
+    "dia": "2025-04-04T03:00:00.000Z",
+    "pico": "1.81",
+    "minimo": "1.46",
+    "media": "1.63",
+    "chuva_total": "3.20",
+    "vazao_media": "51.13"
+  },
+  {
+    "dia": "2025-04-05T03:00:00.000Z",
+    "pico": "1.80",
+    "minimo": "1.32",
+    "media": "1.51",
+    "chuva_total": "0.00",
+    "vazao_media": "45.58"
+  },
+  {
+    "dia": "2025-04-06T03:00:00.000Z",
+    "pico": "1.41",
+    "minimo": "1.14",
+    "media": "1.27",
+    "chuva_total": "0.00",
+    "vazao_media": "35.14"
+  },
+  {
+    "dia": "2025-04-07T03:00:00.000Z",
+    "pico": "1.27",
+    "minimo": "1.01",
+    "media": "1.13",
+    "chuva_total": "9.40",
+    "vazao_media": "29.53"
+  },
+  {
+    "dia": "2025-04-08T03:00:00.000Z",
+    "pico": "1.47",
+    "minimo": "1.09",
+    "media": "1.24",
+    "chuva_total": "21.40",
+    "vazao_media": "34.18"
+  },
+  {
+    "dia": "2025-04-09T03:00:00.000Z",
+    "pico": "1.50",
+    "minimo": "1.10",
+    "media": "1.39",
+    "chuva_total": "0.00",
+    "vazao_media": "40.12"
+  },
+  {
+    "dia": "2025-04-10T03:00:00.000Z",
+    "pico": "1.49",
+    "minimo": "1.41",
+    "media": "1.46",
+    "chuva_total": "0.00",
+    "vazao_media": "43.25"
+  },
+  {
+    "dia": "2025-04-11T03:00:00.000Z",
+    "pico": "1.41",
+    "minimo": "1.26",
+    "media": "1.35",
+    "chuva_total": "0.00",
+    "vazao_media": "38.34"
+  },
+  {
+    "dia": "2025-04-12T03:00:00.000Z",
+    "pico": "1.26",
+    "minimo": "1.11",
+    "media": "1.16",
+    "chuva_total": "0.00",
+    "vazao_media": "30.73"
+  },
+  {
+    "dia": "2025-04-13T03:00:00.000Z",
+    "pico": "1.27",
+    "minimo": "1.05",
+    "media": "1.11",
+    "chuva_total": "3.20",
+    "vazao_media": "28.71"
+  },
+  {
+    "dia": "2025-04-14T03:00:00.000Z",
+    "pico": "1.36",
+    "minimo": "1.22",
+    "media": "1.29",
+    "chuva_total": "0.00",
+    "vazao_media": "36.03"
+  },
+  {
+    "dia": "2025-04-15T03:00:00.000Z",
+    "pico": "1.40",
+    "minimo": "1.31",
+    "media": "1.35",
+    "chuva_total": "0.00",
+    "vazao_media": "38.57"
+  },
+  {
+    "dia": "2025-04-16T03:00:00.000Z",
+    "pico": "1.36",
+    "minimo": "1.23",
+    "media": "1.29",
+    "chuva_total": "0.00",
+    "vazao_media": "36.04"
+  },
+  {
+    "dia": "2025-04-17T03:00:00.000Z",
+    "pico": "1.36",
+    "minimo": "1.17",
+    "media": "1.24",
+    "chuva_total": "0.00",
+    "vazao_media": "34.07"
+  },
+  {
+    "dia": "2025-04-18T03:00:00.000Z",
+    "pico": "1.26",
+    "minimo": "1.08",
+    "media": "1.16",
+    "chuva_total": "0.00",
+    "vazao_media": "30.92"
+  },
+  {
+    "dia": "2025-04-19T03:00:00.000Z",
+    "pico": "1.34",
+    "minimo": "1.10",
+    "media": "1.19",
+    "chuva_total": "0.40",
+    "vazao_media": "32.05"
+  },
+  {
+    "dia": "2025-04-20T03:00:00.000Z",
+    "pico": "1.35",
+    "minimo": "1.09",
+    "media": "1.20",
+    "chuva_total": "0.00",
+    "vazao_media": "32.44"
+  },
+  {
+    "dia": "2025-04-21T03:00:00.000Z",
+    "pico": "1.24",
+    "minimo": "1.08",
+    "media": "1.15",
+    "chuva_total": "0.00",
+    "vazao_media": "30.49"
+  },
+  {
+    "dia": "2025-04-22T03:00:00.000Z",
+    "pico": "1.21",
+    "minimo": "0.97",
+    "media": "1.07",
+    "chuva_total": "0.00",
+    "vazao_media": "27.25"
+  },
+  {
+    "dia": "2025-04-23T03:00:00.000Z",
+    "pico": "1.11",
+    "minimo": "0.88",
+    "media": "0.97",
+    "chuva_total": "0.00",
+    "vazao_media": "23.80"
+  },
+  {
+    "dia": "2025-04-24T03:00:00.000Z",
+    "pico": "1.06",
+    "minimo": "0.90",
+    "media": "0.98",
+    "chuva_total": "0.00",
+    "vazao_media": "23.96"
+  },
+  {
+    "dia": "2025-04-25T03:00:00.000Z",
+    "pico": "1.06",
+    "minimo": "0.89",
+    "media": "0.96",
+    "chuva_total": "0.00",
+    "vazao_media": "23.44"
+  },
+  {
+    "dia": "2025-04-26T03:00:00.000Z",
+    "pico": "1.04",
+    "minimo": "0.77",
+    "media": "0.89",
+    "chuva_total": "0.00",
+    "vazao_media": "21.04"
+  },
+  {
+    "dia": "2025-04-27T03:00:00.000Z",
+    "pico": "1.08",
+    "minimo": "0.92",
+    "media": "0.98",
+    "chuva_total": "4.20",
+    "vazao_media": "24.07"
+  },
+  {
+    "dia": "2025-04-28T03:00:00.000Z",
+    "pico": "1.17",
+    "minimo": "1.01",
+    "media": "1.08",
+    "chuva_total": "2.00",
+    "vazao_media": "27.68"
+  },
+  {
+    "dia": "2025-04-29T03:00:00.000Z",
+    "pico": "1.24",
+    "minimo": "1.02",
+    "media": "1.13",
+    "chuva_total": "0.00",
+    "vazao_media": "29.56"
+  },
+  {
+    "dia": "2025-04-30T03:00:00.000Z",
+    "pico": "1.25",
+    "minimo": "1.04",
+    "media": "1.12",
+    "chuva_total": "0.00",
+    "vazao_media": "29.31"
+  },
+  {
+    "dia": "2025-05-01T03:00:00.000Z",
+    "pico": "1.17",
+    "minimo": "1.01",
+    "media": "1.08",
+    "chuva_total": "0.00",
+    "vazao_media": "27.72"
+  },
+  {
+    "dia": "2025-05-02T03:00:00.000Z",
+    "pico": "1.11",
+    "minimo": "0.86",
+    "media": "0.97",
+    "chuva_total": "0.00",
+    "vazao_media": "23.67"
+  },
+  {
+    "dia": "2025-05-03T03:00:00.000Z",
+    "pico": "1.04",
+    "minimo": "0.88",
+    "media": "0.96",
+    "chuva_total": "0.00",
+    "vazao_media": "23.44"
+  },
+  {
+    "dia": "2025-05-04T03:00:00.000Z",
+    "pico": "1.06",
+    "minimo": "0.90",
+    "media": "0.96",
+    "chuva_total": "0.00",
+    "vazao_media": "23.46"
+  },
+  {
+    "dia": "2025-05-05T03:00:00.000Z",
+    "pico": "1.06",
+    "minimo": "0.81",
+    "media": "0.91",
+    "chuva_total": "0.00",
+    "vazao_media": "21.68"
+  },
+  {
+    "dia": "2025-05-06T03:00:00.000Z",
+    "pico": "1.06",
+    "minimo": "0.91",
+    "media": "0.99",
+    "chuva_total": "0.00",
+    "vazao_media": "24.35"
+  },
+  {
+    "dia": "2025-05-07T03:00:00.000Z",
+    "pico": "1.04",
+    "minimo": "0.78",
+    "media": "0.90",
+    "chuva_total": "0.00",
+    "vazao_media": "21.30"
+  },
+  {
+    "dia": "2025-05-08T03:00:00.000Z",
+    "pico": "0.96",
+    "minimo": "0.77",
+    "media": "0.87",
+    "chuva_total": "0.00",
+    "vazao_media": "20.33"
+  },
+  {
+    "dia": "2025-05-09T03:00:00.000Z",
+    "pico": "1.15",
+    "minimo": "0.88",
+    "media": "1.01",
+    "chuva_total": "25.40",
+    "vazao_media": "25.17"
+  },
+  {
+    "dia": "2025-05-10T03:00:00.000Z",
+    "pico": "1.27",
+    "minimo": "1.07",
+    "media": "1.16",
+    "chuva_total": "0.40",
+    "vazao_media": "30.56"
+  },
+  {
+    "dia": "2025-05-11T03:00:00.000Z",
+    "pico": "1.33",
+    "minimo": "1.07",
+    "media": "1.21",
+    "chuva_total": "0.00",
+    "vazao_media": "32.83"
+  },
+  {
+    "dia": "2025-05-12T03:00:00.000Z",
+    "pico": "1.26",
+    "minimo": "1.11",
+    "media": "1.17",
+    "chuva_total": "0.00",
+    "vazao_media": "31.21"
+  },
+  {
+    "dia": "2025-05-13T03:00:00.000Z",
+    "pico": "1.17",
+    "minimo": "0.97",
+    "media": "1.06",
+    "chuva_total": "0.00",
+    "vazao_media": "26.89"
+  },
+  {
+    "dia": "2025-05-14T03:00:00.000Z",
+    "pico": "1.07",
+    "minimo": "0.92",
+    "media": "0.99",
+    "chuva_total": "0.00",
+    "vazao_media": "24.49"
+  },
+  {
+    "dia": "2025-05-15T03:00:00.000Z",
+    "pico": "1.07",
+    "minimo": "0.95",
+    "media": "1.00",
+    "chuva_total": "0.00",
+    "vazao_media": "24.71"
+  },
+  {
+    "dia": "2025-05-16T03:00:00.000Z",
+    "pico": "1.00",
+    "minimo": "0.91",
+    "media": "0.95",
+    "chuva_total": "0.00",
+    "vazao_media": "22.91"
+  },
+  {
+    "dia": "2025-05-17T03:00:00.000Z",
+    "pico": "0.99",
+    "minimo": "0.86",
+    "media": "0.92",
+    "chuva_total": "0.00",
+    "vazao_media": "22.15"
+  },
+  {
+    "dia": "2025-05-18T03:00:00.000Z",
+    "pico": "0.91",
+    "minimo": "0.84",
+    "media": "0.88",
+    "chuva_total": "5.40",
+    "vazao_media": "20.60"
+  },
+  {
+    "dia": "2025-05-19T03:00:00.000Z",
+    "pico": "1.24",
+    "minimo": "0.84",
+    "media": "1.10",
+    "chuva_total": "2.20",
+    "vazao_media": "28.39"
+  },
+  {
+    "dia": "2025-05-20T03:00:00.000Z",
+    "pico": "1.31",
+    "minimo": "0.97",
+    "media": "1.07",
+    "chuva_total": "4.40",
+    "vazao_media": "27.41"
+  },
+  {
+    "dia": "2025-05-21T03:00:00.000Z",
+    "pico": "1.34",
+    "minimo": "1.14",
+    "media": "1.23",
+    "chuva_total": "0.40",
+    "vazao_media": "33.59"
+  },
+  {
+    "dia": "2025-05-22T03:00:00.000Z",
+    "pico": "1.34",
+    "minimo": "1.17",
+    "media": "1.23",
+    "chuva_total": "0.00",
+    "vazao_media": "33.68"
+  },
+  {
+    "dia": "2025-05-23T03:00:00.000Z",
+    "pico": "1.38",
+    "minimo": "1.14",
+    "media": "1.24",
+    "chuva_total": "0.00",
+    "vazao_media": "34.02"
+  },
+  {
+    "dia": "2025-05-24T03:00:00.000Z",
+    "pico": "1.30",
+    "minimo": "1.00",
+    "media": "1.09",
+    "chuva_total": "2.20",
+    "vazao_media": "28.16"
+  },
+  {
+    "dia": "2025-05-25T03:00:00.000Z",
+    "pico": "1.11",
+    "minimo": "0.99",
+    "media": "1.04",
+    "chuva_total": "6.60",
+    "vazao_media": "26.11"
+  },
+  {
+    "dia": "2025-05-26T03:00:00.000Z",
+    "pico": "1.16",
+    "minimo": "1.07",
+    "media": "1.12",
+    "chuva_total": "8.00",
+    "vazao_media": "29.21"
+  },
+  {
+    "dia": "2025-05-27T03:00:00.000Z",
+    "pico": "1.24",
+    "minimo": "1.10",
+    "media": "1.18",
+    "chuva_total": "9.60",
+    "vazao_media": "31.56"
+  },
+  {
+    "dia": "2025-05-28T03:00:00.000Z",
+    "pico": "2.35",
+    "minimo": "1.25",
+    "media": "1.90",
+    "chuva_total": "31.20",
+    "vazao_media": "65.80"
+  },
+  {
+    "dia": "2025-05-29T03:00:00.000Z",
+    "pico": "3.16",
+    "minimo": "2.36",
+    "media": "2.90",
+    "chuva_total": "52.80",
+    "vazao_media": "126.71"
+  },
+  {
+    "dia": "2025-05-30T03:00:00.000Z",
+    "pico": "3.32",
+    "minimo": "3.16",
+    "media": "3.24",
+    "chuva_total": "0.00",
+    "vazao_media": "150.18"
+  },
+  {
+    "dia": "2025-05-31T03:00:00.000Z",
+    "pico": "3.48",
+    "minimo": "3.32",
+    "media": "3.41",
+    "chuva_total": "0.00",
+    "vazao_media": "162.03"
+  },
+  {
+    "dia": "2025-06-01T03:00:00.000Z",
+    "pico": "3.50",
+    "minimo": "3.48",
+    "media": "3.49",
+    "chuva_total": "0.00",
+    "vazao_media": "167.94"
+  }
+]
