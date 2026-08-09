@@ -1,5 +1,9 @@
 # HydroRS-ANA | Dados Históricos | Rio dos Sinos | São Leopoldo | 2018-2025
 
+![Licença](https://img.shields.io/badge/licença-pública-green)
+![Dados](https://img.shields.io/badge/dados-ANA-blue)
+![Rio](https://img.shields.io/badge/rio-Sinos-cyan)
+
 ## Sobre o projeto
 
 Nasceu em 2024 a partir de 194 mil linhas de dados brutos da ANA (Agência Nacional de Águas), tratados e organizados por dia para facilitar o uso por qualquer pessoa ou sistema.
@@ -30,6 +34,12 @@ Cada arquivo JSON contém um array com resumos diários com os seguintes campos:
 | chuva_total | Chuva acumulada no dia | mm |
 | vazao_media | Vazão média do dia | m³/s |
 
+## Evento histórico registrado
+📍 Maio de 2024 — Enchente histórica do RS
+- Pico máximo registrado: 8.11 metros
+- Vazão: 1876 m³/s
+- Maior evento nos dados disponíveis
+
 ## Arquivos disponíveis
 
 | Ano | Dias com dados | Observação |
@@ -45,7 +55,30 @@ Cada arquivo JSON contém um array com resumos diários com os seguintes campos:
 
 ## Como usar
 
-Copie e cole o JSON diretamente
+Copie o arquivo do ano que precisa e use direto no seu projeto.
+
+**JavaScript/Node**
+```js
+const dados = require('./2024.json')
+
+// Maior pico do ano
+const maiorPico = Math.max(...dados.map(d => parseFloat(d.pico) || 0))
+console.log(maiorPico) // 8.11
+```
+
+**Python**
+```python
+import json
+
+with open('2024.json') as f:
+    dados = json.load(f)
+
+pico = max(float(d['pico']) for d in dados if d['pico'])
+print(pico)  # 8.11
+```
+
+## Como contribuir
+Encontrou erro nos dados? Abre uma issue!
 
 ## Fonte
 
@@ -53,6 +86,3 @@ Copie e cole o JSON diretamente
 - Fonte original: ANA — Agência Nacional de Águas
 - Uso permitido: dados públicos, sem fins lucrativos
 
-## Projeto relacionado
-
-API pública com queries por mês, média anual e maiores picos — HydroRS API, em breve.
