@@ -45,7 +45,7 @@ Cada arquivo JSON contém um array com resumos diários com os seguintes campos:
 
 ## Como usar
 
-Copie e cole o JSON diretamente, ou acesse via GitHub Raw:
+Copie e cole o JSON diretamente
 
 ## Fonte
 
