@@ -4,6 +4,8 @@
 ![Dados](https://img.shields.io/badge/dados-ANA-blue)
 ![Rio](https://img.shields.io/badge/rio-Sinos-cyan)
 
+## Descrição: Dados históricos diários do Rio dos Sinos em São Leopoldo - RS (2018-2025)
+
 ## Sobre o projeto
 
 Nasceu em 2024 a partir de 194 mil linhas de dados brutos da ANA (Agência Nacional de Águas), tratados e organizados por dia para facilitar o uso por qualquer pessoa ou sistema.
